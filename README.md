@@ -4,7 +4,7 @@ Link para aplicação [NewXp](https://newxp-next.vercel.app/).
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server no cmd ou powershell:
 
 ```bash
 npm run dev
